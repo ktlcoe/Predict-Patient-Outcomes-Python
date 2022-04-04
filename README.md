@@ -1,4 +1,4 @@
-# PredictPatientOutcomes1
+# PredictPatientOutcomes - Python
 # Inputs: CSV files containing anonymized patient data in the format (patient_id, event_id, event_description, timestamp, value) and mortality events in the format (patient_id, timestamp, label)
 event id: Clinical event identifiers. For example, DRUG19122121 means that a drug
 with RxNorm code as 19122121 was prescribed to the patient. DIAG319049 means
